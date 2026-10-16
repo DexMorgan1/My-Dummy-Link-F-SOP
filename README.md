@@ -67,7 +67,7 @@ For compatibility with the original project, `APP_ID`, `TG_BOT_TOKEN`,
 `DATABASE_URL`, `DATABASE_NAME`, and `FORCE_SUB_CHANNEL` are also accepted.
 `FORCE_SUB_CHANNEL_2` and `FORCE_SUB_CHANNEL2` are ignored. Set
 `DUMMY_BUTTON_LINK` in Railway to a full URL such as `https://t.me/example`.
-Optionally set `DUMMY_BUTTON_TEXT` (default: `Join Channel 2`). If the link is
+Optionally set `DUMMY_BUTTON_TEXT` (default: `Join Channel 2 ↗`). If the link is
 empty, the second button is hidden. `FORCE_SUB_MESSAGE` controls the message
 above the buttons.
 
